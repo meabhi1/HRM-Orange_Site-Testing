@@ -4,6 +4,7 @@ import os
 
 class Loggen:
 
+    @staticmethod
     def logger():
 
         os.makedirs("..\\Logs",exist_ok=True)
