@@ -1,0 +1,56 @@
+2026-10-30 16:43:45 : INFO : --- Starting Test: test_login ---
+2026-10-30 16:43:55 : INFO : Navigated to Base URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-10-30 16:43:56 : INFO : Entered username and password.
+2026-10-30 16:43:56 : INFO : Attempting to click Login button.
+2026-10-30 16:43:58 : INFO : Successfully navigated to the Dashboard.
+2026-10-30 16:44:00 : INFO : Saved success screenshot: test_Login_Passed.png
+2026-10-30 17:13:14 : INFO : --- Starting Test: test_login ---
+2026-10-30 17:13:21 : INFO : Navigated to Base URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-10-30 17:13:23 : INFO : Entered username and password.
+2026-10-30 17:13:23 : INFO : Attempting to click Login button.
+2026-10-30 17:13:24 : INFO : Successfully navigated to the Dashboard.
+2026-10-30 17:13:26 : INFO : Saved success screenshot: test_Login_Passed.png
+2026-10-30 17:14:36 : INFO : --- Starting Test: test_login ---
+2026-10-30 17:14:43 : INFO : Navigated to Base URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-10-30 17:14:44 : INFO : Entered username and password.
+2026-10-30 17:14:44 : INFO : Attempting to click Login button.
+2026-10-30 17:14:46 : INFO : Successfully navigated to the Dashboard.
+2026-10-30 17:14:48 : INFO : Saved success screenshot: test_Login_Passed.png
+2026-10-30 17:14:55 : WARNING : The geckodriver version (0.36.0) detected in PATH at C:\Users\Abhijeet Jha\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\seleniumbase\drivers\geckodriver.exe might not be compatible with the detected firefox version (159.0); currently, geckodriver 0.37.1 is recommended for firefox 159.*, so it is advised to delete the driver in PATH and retry
+2026-10-30 17:20:33 : INFO : --- Starting Test: test_login ---
+2026-10-30 17:21:51 : INFO : Navigated to Base URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-10-30 17:21:54 : INFO : Entered username and password.
+2026-10-30 17:21:54 : INFO : Attempting to click Login button.
+2026-10-30 17:22:02 : INFO : Successfully navigated to the Dashboard.
+2026-10-30 17:22:04 : INFO : Saved success screenshot: test_Login_Passed.png
+2026-10-30 17:22:11 : WARNING : The geckodriver version (0.36.0) detected in PATH at C:\Users\Abhijeet Jha\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\seleniumbase\drivers\geckodriver.exe might not be compatible with the detected firefox version (159.0); currently, geckodriver 0.37.1 is recommended for firefox 159.*, so it is advised to delete the driver in PATH and retry
+2026-10-30 17:25:58 : INFO : --- Starting Test: test_login ---
+2026-10-30 17:26:01 : INFO : Navigated to Base URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-10-30 17:26:02 : INFO : Entered username and password.
+2026-10-30 17:26:02 : INFO : Attempting to click Login button.
+2026-10-30 17:26:04 : INFO : Successfully navigated to the Dashboard.
+2026-10-30 17:26:06 : INFO : Saved success screenshot: test_Login_Passed.png
+2026-10-30 17:36:38 : INFO : --- Starting Test: test_login ---
+2026-10-30 17:36:45 : INFO : Navigated to Base URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-10-30 17:36:46 : INFO : Entered username and password.
+2026-10-30 17:36:46 : INFO : Attempting to click Login button.
+2026-10-30 17:36:48 : INFO : Successfully navigated to the Dashboard.
+2026-10-30 17:36:50 : INFO : Saved success screenshot: test_Login_Passed.png
+2026-10-30 17:39:12 : INFO : --- Starting Test: test_login ---
+2026-10-30 17:39:15 : INFO : Navigated to Base URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-10-30 17:39:17 : INFO : Entered username and password.
+2026-10-30 17:39:17 : INFO : Attempting to click Login button.
+2026-10-30 17:39:21 : INFO : Successfully navigated to the Dashboard.
+2026-10-30 17:39:23 : INFO : Saved success screenshot: test_Login_Passed.png
+2026-10-30 17:40:42 : INFO : --- Starting Test: test_login ---
+2026-10-30 17:40:46 : INFO : Navigated to Base URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-10-30 17:40:46 : INFO : Entered username and password.
+2026-10-30 17:40:46 : INFO : Attempting to click Login button.
+2026-10-30 17:40:48 : INFO : Successfully navigated to the Dashboard.
+2026-10-30 17:40:50 : INFO : Saved success screenshot: test_Login_Passed.png
+2026-10-30 17:44:35 : INFO : --- Starting Test: test_login ---
+2026-10-30 17:44:39 : INFO : Navigated to Base URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-10-30 17:44:40 : INFO : Entered username and password.
+2026-10-30 17:44:40 : INFO : Attempting to click Login button.
+2026-10-30 17:44:41 : INFO : Successfully navigated to the Dashboard.
+2026-10-30 17:44:43 : INFO : Saved success screenshot: test_Login_Passed.png
